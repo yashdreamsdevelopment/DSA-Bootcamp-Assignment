@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-flow-of-program/01-flow-of-program.iml" filepath="$PROJECT_DIR$/01-flow-of-program/01-flow-of-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-first-java/02-first-java.iml" filepath="$PROJECT_DIR$/02-first-java/02-first-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Bootcamp-Assignment.iml" filepath="$PROJECT_DIR$/.idea/DSA-Bootcamp-Assignment.iml" />
+    </modules>
+  </component>
+</project>
