@@ -8,7 +8,7 @@ public class Palindrome {
 
         // Discussion: The number which is same if read in reverse order is a palindrome number
         //             eg. 181 (181) --> palindrome
-        //             eg. 876 (676) --> not palindrome
+        //             eg. 876 (678) --> not palindrome
 
         // Solution:
         Scanner sc = new Scanner(System.in);
@@ -21,7 +21,6 @@ public class Palindrome {
         }else{
             System.out.println("Not a Palindrome");
         }
-
     }
 
     static boolean isPalindrome(int num){
